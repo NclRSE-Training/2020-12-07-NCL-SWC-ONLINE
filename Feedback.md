@@ -23,3 +23,20 @@
    - Difference between a root user and non root user ?
 
    - Maybe you could teach using tab to see all the files in the directory and autocomplete when writng a command. Maybe its in part 2
+
+## Feedback for Day 2
+
+- **What went well, what did you learn that you are excited about using in your work?**
+
+  - for loosp was really useful especially combined in a shell script. Also grep and find commands very helpful to find anything we want.
+
+  - Its good to introduce how to writing a shell script first before teaching to what you can do with a script to automate some of your work
+
+  - the workshop is great. I self-learned most of the commands. I loved the workshop. It added great value to my knowledge. I will put it in use. The most command line I will remember and use often wc, head, and tail.
+
+- **What could be improved, what was not clear, what needs more explanations?
+
+   - Maybe include more commands.
+
+   - I did lose track of some of the flag meanings, maybe reiterate their purpose throughout
+
