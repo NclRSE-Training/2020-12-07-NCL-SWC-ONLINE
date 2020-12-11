@@ -65,4 +65,18 @@
     - How to better store and manage data
 
 
+## Feedback for Day 5
+- **What went well, what did you learn that you are excited about using in your work?**
+
+  - How to deal with and handle errors
+
+- **What could be improved, what was not clear, what needs more explanations?**
+  - 
+  -
+
+                    
+
+                         
+
+
 
