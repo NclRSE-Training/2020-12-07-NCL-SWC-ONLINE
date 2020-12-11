@@ -34,9 +34,35 @@
 
   - the workshop is great. I self-learned most of the commands. I loved the workshop. It added great value to my knowledge. I will put it in use. The most command line I will remember and use often wc, head, and tail.
 
-- **What could be improved, what was not clear, what needs more explanations?
+- **What could be improved, what was not clear, what needs more explanations?**
 
    - Maybe include more commands.
 
    - I did lose track of some of the flag meanings, maybe reiterate their purpose throughout
+
+## Feedback for Day 3
+- **What went well, what did you learn that you are excited about using in your work?**
+    -
+    -
+
+
+
+- **What could be improved, what was not clear, what needs more explanations?**
+    -
+    -
+
+## Feedback for Day 4
+- **What went well, what did you learn that you are excited about using in your work?**
+
+    - Graphing multiple graphs to one image
+    - Thank you for the informative and educative workshop. I like the way materials are presented and documented. It is clear and concise.
+    - I am new to Python, so thank you very much for these materials and videos.
+
+- **What could be improved, what was not clear, what needs more explanations?**
+
+    - How to manipulate and clean up data that isn't in an instantly analysable form.
+    - How best to export created graphs for publication, thesis entry. etc
+    - How to better store and manage data
+
+
 
